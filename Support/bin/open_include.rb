@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/bin/ruby
 #
 # This command searches around the caret/selection for the nearest quotes and expands
 # the name to the full quoted text, then tries to open the file at the path described
